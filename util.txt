@@ -1,1 +1,1 @@
-utility functions for version one git config --global user.email " " 
+utility functions for version one git config --global user.email " " version 2
